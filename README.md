@@ -32,10 +32,12 @@ To overcome the complexities of such a system, we are conducting extensive resea
 
 ### Built With
 
+- Rust/Solidity 
 - [Nodejs](https://nodejs.org/en/)
 - [Truffle](https://trufflesuite.com/)
 - [React.js](https://reactjs.org/)
 - [web3.js](https://web3js.readthedocs.io/en/1.0/getting-started.html)
+  
 
 <!-- GETTING STARTED -->
 
