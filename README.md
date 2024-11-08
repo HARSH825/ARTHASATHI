@@ -49,31 +49,9 @@ To set up a local copy, follow these steps:
 Ensure you have the following prerequisites installed.
 
 - *Node.js*
-  - macOS:
-    - Install [Homebrew](https://brew.sh/):
-      sh
-      /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-      
-    - Install Node.js:
-      sh
-      brew install node
-      
-  - Windows:
-    - Install [Chocolatey](https://chocolatey.org/install):
-      sh
-      @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-      
-    - Install Node.js:
-      sh
-      choco install nodejs
-      
-
+  
 - *npm*
-  - Install npm:
-    sh
-    npm install npm -g
-    
-
+  
 - *Ganache*
   - Install [Ganache](https://trufflesuite.com/ganache/)
 
@@ -135,7 +113,8 @@ To overcome the complexities of such a system, we are conducting extensive resea
 
 ### Built With
 
-- [Node 10](https://nodejs.org/en/)
+-  [Solidity/Rust] (https://soliditylang.org/)
+- [Node ](https://nodejs.org/en/)
 - [Truffle](https://trufflesuite.com/)
 - [React.js](https://reactjs.org/)
 - [web3.js](https://web3js.readthedocs.io/en/1.0/getting-started.html)
@@ -151,31 +130,9 @@ To set up a local copy, follow these steps:
 Ensure you have the following prerequisites installed.
 
 - *Node.js*
-  - macOS:
-    - Install [Homebrew](https://brew.sh/):
-      sh
-      /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-      
-    - Install Node.js:
-      sh
-      brew install node
-      
-  - Windows:
-    - Install [Chocolatey](https://chocolatey.org/install):
-      sh
-      @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-      
-    - Install Node.js:
-      sh
-      choco install nodejs
-      
-
+ 
 - *npm*
-  - Install npm:
-    sh
-    npm install npm -g
     
-
 - *Ganache*
   - Install [Ganache](https://trufflesuite.com/ganache/)
 
