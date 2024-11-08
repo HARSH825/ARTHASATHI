@@ -32,6 +32,7 @@ To overcome the complexities of such a system, we are conducting extensive resea
 
 ### Built With
 
+-  Solidity/Rust
 - [Nodejs](https://nodejs.org/en/)
 - [Truffle](https://trufflesuite.com/)
 - [React.js](https://reactjs.org/)
