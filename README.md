@@ -13,7 +13,7 @@
 
 ## About The Project
 
-*Note: This project is not yet complete and was initially built for NITS Hackathon 7.*
+**Note: This project is not yet complete and was initially built for NITS Hackathon 7.**
 
 This repository hosts a collection of smart contracts for a DAO (Decentralized Autonomous Organization) focused on creating a decentralized P2P lending platform on the Ethereum Blockchain. This platform may evolve based on future DAO decisions, and we’re as excited as you are to see where it goes!
 
